@@ -1,0 +1,1 @@
+.exe file built from .jar file using Launch4j
